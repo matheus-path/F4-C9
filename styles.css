@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(to top, #738C3F, #dddbdb);
+    background-size: auto; 
+    background-position: center; 
+    height: 100vh ;
+    
+}
+.login-container {
+    margin-top: 10%;
+    padding: 2rem;
+    background-color: #dddbdb;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    
+    
+}
+.logo {
+    display: block;
+    margin: 0 auto 20px;
+    width: 150px;
+}
+.btn-primary {
+    background-color: #738C3F;
+    border-color: #738C3F;
+}
+.btn-primary:hover {
+    background-color: #738C3F;
+    border-color: #738C3F;
+}
+.form-group input {
+    border-radius: 25px;
+    margin-top: auto;
+}
+.form-group label {
+    color: #333333;
+}
+.link {
+    color: #738C3F;
+}
+.btn-block {
+    display: block;
+    width: 50%;
+    max-width: 300px;
+    text-align: center;
+    margin: 1rem auto;
+}
